@@ -9,3 +9,6 @@ build/
 
 # Editor
 .vscode/
+
+# Third-party libraries from Library Manager (reinstallable)
+libraries/
