@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Build output (arduino-cli --export-binaries / --output-dir)
+build/
+*.bin
+*.hex
+*.elf
+
+# Editor
+.vscode/
